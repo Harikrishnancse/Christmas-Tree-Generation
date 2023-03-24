@@ -1,26 +1,8 @@
 # Christmas-Tree-Generation
 TCS Code Vita Program
 
-## Sample Output
+To see the tree "Enter the no of days" 
 
-Enter the no of days : 5
-     *     
-    ***    
-   *****   
-  *******       ==== part 1
- ********* 
-***********
-    ***    
-   *****   
-  *******       ==== part 2
- ********* 
-    ***    
-   *****        ==== part 3
-  *******  
-    ***        ====== part 4
-   *****        
-     *         =====  stand
-     *  
-
+ 
 
 
