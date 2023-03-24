@@ -4,8 +4,6 @@ TCS Code Vita Program
 ## Sample Output
 
 Enter the no of days : 5
-
-
      *     
     ***    
    *****   
